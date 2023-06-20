@@ -1,0 +1,3 @@
+/home/lev/Desktop/github_projects/linear_model_cpp_impl/cmake-build-debug/CMakeFiles/linear_model_cpp_impl.dir
+/home/lev/Desktop/github_projects/linear_model_cpp_impl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lev/Desktop/github_projects/linear_model_cpp_impl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
